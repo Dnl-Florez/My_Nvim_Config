@@ -12,7 +12,7 @@ This is my personal vim configuration, i'll be updating this constantly (i hope 
 ### 2. Install dependences.
 #### -Vundle:
 https://github.com/VundleVim/Vundle.vim
-#### -Nodejs:
+#### -Nodejs and npm:
 
 ### 3. Use the .vimrc file.
 Clone this repo and set the .vimrc file on the root
