@@ -17,6 +17,11 @@ https://github.com/VundleVim/Vundle.vim
 ### 3. Use the .vimrc file.
 Clone this repo and set the .vimrc file on the root
 
+### Note: If there's any error with Coc
+Go to /.vimfiles/plugged/coc.nvim
+Install yarn
+Execute yarn-install
+
 ## Goals:
 -Made an instalation.sh that install all in one
 -Custom vim main page
