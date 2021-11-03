@@ -6,21 +6,15 @@ This is my personal vim configuration, i'll be updating this constantly (i hope 
 ### 1. Install vim/nvim:
 #### -Windows:
 #### -Linux:
-##### -apt:
-##### -pacman:
+##### -apt: sudo apt-get install vim
+##### -pacman: sudo pacman -S vim
 
 ### 2. Install dependences.
 #### -Vundle:
 https://github.com/VundleVim/Vundle.vim
-#### -Nodejs and npm:
 
 ### 3. Use the .vimrc file.
 Clone this repo and set the .vimrc file on the root
-
-### Note: If there's any error with Coc
-Go to /.vimfiles/plugged/coc.nvim
-Install yarn
-Execute yarn-install
 
 ## Goals:
 -Made an instalation.sh that install all in one
