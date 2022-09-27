@@ -26,5 +26,5 @@ Copy the content of the 'init.vim' file on this repo and paste it on the 'init.v
 
 ### Long Term Goals:
 - Find a new and final general theme
-- Made an install.sh
-- Custom vim main page
+- Made an install.sh [---5%---]
+- [Custom vim main page](https://github.com/mhinz/vim-startify)
