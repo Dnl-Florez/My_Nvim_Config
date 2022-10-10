@@ -18,7 +18,7 @@ Copy the content of the 'init.vim' file on this repo and paste it on the 'init.v
 
 ## Goals:
 ### Short Term Goals(ordered):
-1. Incorpore [GitHub Copilot](https://docs.github.com/en/copilot/getting-started-with-github-copilot/getting-started-with-github-copilot-in-neovim)
+1. (DONE) ✔ Incorpore [GitHub Copilot](https://docs.github.com/en/copilot/getting-started-with-github-copilot/getting-started-with-github-copilot-in-neovim)
 
 2. Fix the airline
 
