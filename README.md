@@ -66,11 +66,11 @@ Copy the content of the 'init.vim' file on this repo and paste it on the 'init.v
 ### Short Term Goals(ordered):
 1. (DONE) ✔ Incorpore [GitHub Copilot](https://docs.github.com/en/copilot/getting-started-with-github-copilot/getting-started-with-github-copilot-in-neovim)
 
-2. Fix the airline
+2. (DONE) ✔ Fix the airline
 
 3. Document all the init.vim file
 
 ### Long Term Goals:
-- Find a new and final general theme
+- (DONE) ✔ Find a new and final general theme (nord)
 - Made an install.sh [---5%---]
 - [Custom vim main page](https://github.com/mhinz/vim-startify)
